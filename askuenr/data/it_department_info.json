@@ -1,0 +1,73 @@
+{
+  "department": {
+    "name": "Department of Information Technology and Decision Sciences (ITDS)",
+    "school": "School of Sciences",
+    "university": "University of Energy and Natural Resources",
+    "location": "Sunyani, Ghana",
+    "programs": [
+      {
+        "degree": "BSc",
+        "name": "Information Technology",
+        "mode": "Regular/Weekend"
+      },
+      {
+        "degree": "Diploma",
+        "name": "Information Technology",
+        "mode": "Regular/Weekend"
+      }
+    ],
+    "head_of_department": {
+      "name": "Prof. Peter Appiahene",
+      "position": "Head of Department",
+      "school": "School of Sciences"
+    },
+    "staff": [
+      {
+        "name": "Prof. Peter Appiahene",
+        "position": "Associate Professor / Head of Department",
+        "school": "School of Sciences"
+      },
+      {
+        "name": "Dr. Kwabena Adu",
+        "position": "Lecturer",
+        "school": "School of Sciences"
+      },
+      {
+        "name": "Emmanuel Adjei Domfeh",
+        "position": "Assistant Lecturer",
+        "school": "School of Sciences"
+      },
+      {
+        "name": "Jacob Mensah",
+        "position": "Assistant Lecturer",
+        "school": "School of Sciences"
+      },
+      {
+        "name": "Mr. Michael Opoku",
+        "position": "Lecturer",
+        "school": "School of Sciences"
+      },
+      {
+        "name": "Dr. Anokye A. Acheampong",
+        "position": "Senior Lecturer",
+        "school": "School of Sciences"
+      }
+    ],
+    "courses_offered": [
+      "Information Security",
+      "Distributed Systems",
+      "Programming (e.g. C++, Visual Basic .NET)",
+      "Data Structures and Algorithms",
+      "Operating Systems",
+      "Computer Organization and Architecture",
+      "Cryptography and Network Security",
+      "Mobile Computing"
+    ],
+    "industrial_tours": [
+      {
+        "date": "2023",
+        "description": "2-day industrial tour for Level 200 Diploma IT students, offering a unique glimpse into the tech industry in Ghana."
+      }
+    ]
+  }
+}

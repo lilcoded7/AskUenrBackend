@@ -1,0 +1,133 @@
+{
+  "University": "University of Energy and Natural Resources (UENR)",
+  "About": {
+    "Overview": "UENR is a public university in Sunyani, Ghana, dedicated to training and research in energy, natural resources, science, engineering, and sustainable development. It provides undergraduate and postgraduate programmes across various schools.",
+    "Vision": "To become a centre of excellence in energy and natural resources education and research, providing solutions to national and global challenges.",
+    "Mission": "To promote the sustainable management of energy and natural resources through quality teaching, learning, research, innovation, and community service."
+  },
+  "Location": {
+    "Main_Campus": "Sunyani, Bono Region, Ghana",
+    "Satellite_Campuses": [
+      "Dormaa Ahenkro",
+      "Nsoatre"
+    ],
+    "Description": "The university’s main campus is located in Sunyani, the capital of Bono Region. Additional campuses in Dormaa Ahenkro and Nsoatre expand access to education and research."
+  },
+  "Course_Registration": {
+    "General_Requirements": [
+      "Students must be formally admitted into a programme and properly register for courses each semester.",
+      "Registration is done through the UENR Students Information System (USIS Portal).",
+      "Late registration is allowed but may attract a fine."
+    ],
+    "Policies": [
+      "Students must consult academic advisors or Heads of Department before finalizing course choices.",
+      "Failure to register in a semester without permission counts as abandoning the programme, which can lead to withdrawal.",
+      "Students who register but miss exams without valid reasons (e.g., ill health) receive an 'F'.",
+      "Students on grace period must register for examinations at least 4 weeks before exams begin."
+    ],
+    "Steps_to_Register": [
+      "1. Log into the USIS Portal with your student credentials provided by the IT Directorate.",
+      "2. Review available courses for the semester in consultation with your academic advisor.",
+      "3. Select and add courses to your registration list.",
+      "4. Verify your course selections and credit hours meet programme requirements.",
+      "5. Submit registration online through the portal.",
+      "6. Print or save proof of registration for personal records.",
+      "7. Complete any necessary fee payments to finalize registration."
+    ]
+  },
+  "Grading_System": {
+    "Grades": [
+      { "Grade": "A", "Mark": "80-100", "Interpretation": "Excellent", "Grade_Point": 4.00 },
+      { "Grade": "B+", "Mark": "75-79", "Interpretation": "Very Good", "Grade_Point": 3.50 },
+      { "Grade": "B", "Mark": "70-74", "Interpretation": "Good", "Grade_Point": 3.00 },
+      { "Grade": "C+", "Mark": "65-69", "Interpretation": "Fairly Good", "Grade_Point": 2.50 },
+      { "Grade": "C", "Mark": "60-64", "Interpretation": "Average", "Grade_Point": 2.00 },
+      { "Grade": "D+", "Mark": "55-59", "Interpretation": "Below Average", "Grade_Point": 1.50 },
+      { "Grade": "D", "Mark": "50-54", "Interpretation": "Weak Pass", "Grade_Point": 1.00 },
+      { "Grade": "E", "Mark": "45-49", "Interpretation": "Marginal Pass", "Grade_Point": 0.00 },
+      { "Grade": "F", "Mark": "0-44", "Interpretation": "Fail", "Grade_Point": 0.00 }
+    ],
+    "Other_Notations": {
+      "X": "Disqualification",
+      "Z": "Failure due to misconduct",
+      "I": "Incomplete",
+      "Y": "Continuing (work in progress)"
+    },
+    "Computation": {
+      "GPA": "Total grade points earned divided by total credit units for a semester.",
+      "CGPA": "Cumulative grade point average across all semesters.",
+      "FGPA": "Final grade point average at the end of the programme."
+    }
+  },
+  "Programmes_Offered": {
+    "School_of_Engineering": [
+      "BSc Agricultural Engineering",
+      "BSc Computer Engineering",
+      "BSc Electrical and Electronic Engineering (Regular / Weekend)",
+      "BSc Mechanical Engineering (Regular / Weekend)",
+      "BSc Environmental Engineering",
+      "BSc Renewable Energy Engineering",
+      "BSc Petroleum Engineering",
+      "BSc Civil Engineering",
+      "Diploma in Electrical and Electronic Engineering"
+    ],
+    "School_of_Sciences": [
+      "BSc Computer Science (Regular / Weekend)",
+      "BSc Information Technology (Regular / Weekend)",
+      "BSc Biological Science",
+      "BSc Chemistry",
+      "BSc Mathematics",
+      "BSc Statistics",
+      "BSc Actuarial Science",
+      "BSc Nursing",
+      "Diploma in Computer Science",
+      "Diploma in Information Technology",
+      "Diploma in Insurance",
+      "Diploma in Statistics"
+    ],
+    "School_of_Natural_Resources": [
+      "BSc Natural Resources (with options in Forest Resources Management, Fisheries & Aquaculture, Land Reclamation & Restoration, Social Forestry, etc.)",
+      "BSc Fire and Disaster Management (Regular / Weekend)",
+      "Diploma in Natural Resources Management",
+      "Diploma in Fire and Disaster Management"
+    ],
+    "School_of_Mines_and_Built_Environment": [
+      "BSc Sustainable Mining",
+      "BSc Urban Mining",
+      "BSc Sustainable Land Management",
+      "MSc / MPhil / PhD Sustainable Mining",
+      "MSc / MPhil / PhD Land Degradation Neutrality"
+    ],
+    "Graduate_Studies": [
+      "MSc / MPhil / PhD Computer Science",
+      "MSc / MPhil / PhD Environmental Engineering Management",
+      "MSc / MPhil / PhD Natural Resources Management",
+      "MSc / MPhil / PhD Climate Change",
+      "MSc / MPhil / PhD Social Forestry",
+      "MSc / MPhil / PhD Land Use and Development"
+    ]
+  },
+  "Student_Services": {
+    "Library_Services": [
+      "Book lending and reference services",
+      "Photocopying and printing",
+      "Internet and digital resources access",
+      "Orientation for new students",
+      "Current awareness and information dissemination"
+    ],
+    "International_Relations": [
+      "Orientation for international students",
+      "Registration for medical cover, visa, and passport services",
+      "Support for exchange and partnership programmes"
+    ],
+    "Graduate_School": [
+      "Postgraduate student administration",
+      "Research support and academic planning",
+      "Coordination of postgraduate programmes"
+    ],
+    "Clubs_and_Skills": [
+      "Centre for Students’ Skills Enhancement (CeSSE)",
+      "Students Skills Club for employability and professional development"
+    ]
+  }
+}
